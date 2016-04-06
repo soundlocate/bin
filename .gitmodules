@@ -1,0 +1,3 @@
+[submodule "webOut"]
+	path = webOut
+	url = https://bitbucket.org/sfn_pcode/soundlocatevisualizer
